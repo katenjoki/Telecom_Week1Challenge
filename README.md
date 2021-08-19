@@ -1,4 +1,4 @@
-<h1> User Analytics in the Telecommunication IndustryUser Analytics in the Telecommunication Industry</h1>
+<h1> User Analytics in the Telecommunication Industry</h1>
 
 <h2> Situational Overview (Business Need)</h2>
 
