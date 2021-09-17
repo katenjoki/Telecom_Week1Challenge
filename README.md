@@ -7,4 +7,4 @@
 
 <h2>Data</h2>
 
-The data is extracted from a month of aggregated data on xDR and the field descriptions can be found [here](https://github.com/katenjoki/Telecom_Week1Challenge/blob/master/data/field_descriptions.txt).
+The [data](https://github.com/katenjoki/Telecom_Week1Challenge/tree/master/data) is extracted from a month of aggregated data on xDR and the field descriptions can be found [here](https://github.com/katenjoki/Telecom_Week1Challenge/blob/master/data/field_descriptions.txt).
